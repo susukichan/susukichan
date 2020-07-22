@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="assets/susukiHelloWorld.gif" style="height: 400px; width: 400px;" alt="Susuki Hello World"/>
+  <img src="assets/susukiHelloWorld.gif?raw=true" style="height: 400px; width: 400px;" alt="Susuki Hello World"/>
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
   </samp>
   <br>
   <a href="https://www.linkedin.com/in/chansuki/">
-  <img align="center" style="margin: 8px;" alt="Susuki LinkedIn" width="30px" src="assets/linkedin.svg" />
+  <img align="center" style="margin: 8px;" alt="Susuki LinkedIn" width="30px" src="assets/linkedin.svg?raw=true" />
 </a>
 <a href="mailto:iamsusukichan@gmail.com">
-  <img align="center" style="margin: 8px;" alt="Susuki Email" width="30px" src="assets/email.svg" />
+  <img align="center" style="margin: 8px;" alt="Susuki Email" width="30px" src="assets/email.svg?raw=true" />
 </a>
 </div>
